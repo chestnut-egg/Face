@@ -4,8 +4,8 @@ from json import JSONDecoder
 import simplejson
 from pip._vendor import requests
 
-key = "JoStgK_wz9hknKaT8NWZmNUUsVACMYg9"
-secret = "YlHCRxNR4pmuQ5o3ZF0nO-VfTSX7qgev"
+key = "yourkey"
+secret = "yoursecret"
 
 def find_face(imgpath):
     print("finding")
